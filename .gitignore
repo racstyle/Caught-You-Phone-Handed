@@ -1,0 +1,5 @@
+# The files are too big to be pushed into GitHub, even with git lsf
+/Users/rachel/OneDrive/Documents/UIC/2021 Spring/ECE 397/Project Resources/Caught-You-Phone-Handed/Tensorflow/workspace/models/my_ssd_mobnet/train/events.out.tfevents.1617594409.Rachels-MacBook-Pro.local.39327.10683.v2
+/Users/rachel/OneDrive/Documents/UIC/2021 Spring/ECE 397/Project Resources/Caught-You-Phone-Handed/Tensorflow/workspace/models/my_ssd_mobnet/eval/events.out.tfevents.1617606159.Rachels-MacBook-Pro.local.46874.9543.v2
+/Users/rachel/OneDrive/Documents/UIC/2021 Spring/ECE 397/Project Resources/Caught-You-Phone-Handed/Tensorflow/workspace/annotations/train.record
+/Users/rachel/OneDrive/Documents/UIC/2021 Spring/ECE 397/Project Resources/Caught-You-Phone-Handed/Tensorflow/workspace/annotations/test.record
