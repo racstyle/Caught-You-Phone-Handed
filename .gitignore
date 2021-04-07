@@ -1,5 +1,7 @@
 # The files are too big to be pushed into GitHub, even with git lsf
 *.v2
-*.record
 *.JPG
 *.xml
+
+# These files are not needed
+.DS_Store
