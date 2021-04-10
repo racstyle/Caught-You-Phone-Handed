@@ -15,10 +15,13 @@ __References__:
 1. [1] "Texting and Driving Accident Statistics - Distracted Driving", [Online]. Available: https://www.edgarsnyder.com/car-accident/cause-of-accident/cell-phone/cell-phone-statistics.html. [Accessed: 01-Dec-2020].
 2. [2] J. Atwood, F. Guo, G. Fitch, and T. A. Dingus, “The driver-level crash risk associated with daily cellphone use and cellphone use while driving,” vol. 119, pp. 149–154, 2018, doi: 10.1016/j.aap.2018.07.007.
 
-# What is this project?
+# What is this project about?
 This project is called Caught You Phone-Handed!  As the name suggests, our project aims to detect drivers on their phones while driving in order to enforce safe driving.
 
-The basic idea is this device is to use object detection camera device which will catch people using their hand-held phones while driving.  The camera will take the picture of the person on their phone and their number plate if they are caught using their phone while driving. (The camera will not take any picture for the stationary cars)
+The basic idea is this device will use video processing via object detection on live video input to catch people using their hand-held phones while driving.  The camera will take the picture of the person on their phone and their number plate if they are caught using their phone while driving. (The camera will not take any picture for the stationary cars)
+
+# What does this project look like?
+(more details coming soon!)
 
 # Want to learn the nitty gritty details about this project?
 Check out our Adobe Spark page for a more comprehensive description!

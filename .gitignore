@@ -2,12 +2,11 @@
 *.v2
 *.JPG
 *.xml
-*.record
 *.mp4
 
 # These files are not needed
 .DS_Store
-Tensorflow/workspace/models/old_checkpoints_7K
 Tensorflow/workspace/images/.DS_Store
 Tensorflow/workspace/models/my_ssd_mobnet/.DS_Store
 Tensorflow/workspace/models/.DS_Store
+Tensorflow/workspace/models/old_checkpoints_20K_15-21_SUGRA
