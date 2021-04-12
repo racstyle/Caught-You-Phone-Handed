@@ -3,6 +3,8 @@
 *.JPG
 *.xml
 *.mp4
+*.mov
+*.record
 
 # These files are not needed
 .DS_Store
