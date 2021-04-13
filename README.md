@@ -1,5 +1,11 @@
-# Staying in touch with your loved ones is important, but don't you think you should stay in touch with the road in front of you more?
+# *QUICK NOTE about viewing our Jupyter Notebook on GitHub*
+It has come to our attention that for some people, GitHub doesn't seem to like them viewing our Jupyter Notebook directly on the GitHub website.  Here is a workaround that we have found so that you can view it.  Just click on this link below and you can see our code in all its glory!
 
+https://nbviewer.jupyter.org/github/racstyle/Caught-You-Phone-Handed/blob/main/TeamAsianeering_Project.ipynb
+
+And now, back to our project!
+
+# Staying in touch with your loved ones is important, but don't you think you should stay in touch with the road in front of you more?
 Let's face it. We have places to go, sights to see, and people to meet! We also want to let those people know that we are safe and are on our way to meet them!
 
 Wait, "safe"? How safe are we talking about? Safe as in "letting them know by texting on our phones as we drive 75 miles per hour on the highway" safe?
@@ -15,13 +21,20 @@ __References__:
 1. [1] "Texting and Driving Accident Statistics - Distracted Driving", [Online]. Available: https://www.edgarsnyder.com/car-accident/cause-of-accident/cell-phone/cell-phone-statistics.html. [Accessed: 01-Dec-2020].
 2. [2] J. Atwood, F. Guo, G. Fitch, and T. A. Dingus, “The driver-level crash risk associated with daily cellphone use and cellphone use while driving,” vol. 119, pp. 149–154, 2018, doi: 10.1016/j.aap.2018.07.007.
 
+# So what can be done about it?
+I am glad you have asked! One solution is to create a device that can detect drivers on their phones while driving to minimize distracted driving! This is where our project comes in. If this project sees you driving with your phone in your hand, you've been, wait for it, Caught Phone-Handed! (Hence our project title, Caught You Phone-Handed 🙃)
+
 # What is this project about?
 This project is called Caught You Phone-Handed!  As the name suggests, our project aims to detect drivers on their phones while driving in order to enforce safe driving.
 
 The basic idea is this device will use video processing via object detection on live video input to catch people using their hand-held phones while driving.  The camera will take the picture of the person on their phone and their number plate if they are caught using their phone while driving. (The camera will not take any picture for the stationary cars)
 
 # What does this project look like?
-(more details coming soon!)
+Simply put, this project takes in live video input.  If our project detects the driver in question is on their phone, then a yellow box appears around the driver **and** their phone.  Otherwise, if there is no phone, nothing appears and the driver is safe.
+
+Still don't see it?  I think it is best by showing you our test results!
+
+[![Caught you phone-handed test results!](https://res.cloudinary.com/marcomontalbano/image/upload/v1618270436/video_to_markdown/images/vimeo--535723214-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://vimeo.com/535723214 "Caught you phone-handed test results!")
 
 # Want to learn the nitty gritty details about this project?
 Check out our Adobe Spark page for a more comprehensive description!
