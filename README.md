@@ -34,7 +34,7 @@ Simply put, this project takes in live video input.  If our project detects the 
 
 Still don't see it?  I think it is best by showing you our test results!
 
-[![Caught you phone-handed test results!](https://res.cloudinary.com/marcomontalbano/image/upload/v1618270436/video_to_markdown/images/vimeo--535723214-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://vimeo.com/535723214 "Caught you phone-handed test results!")
+[![Caught you phone-handed test results!](https://res.cloudinary.com/marcomontalbano/image/upload/v1618431182/video_to_markdown/images/vimeo--535723214-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://vimeo.com/535723214/settings "Caught you phone-handed test results!")
 
 # Want to learn the nitty gritty details about this project?
 Check out our Adobe Spark page for a more comprehensive description!
