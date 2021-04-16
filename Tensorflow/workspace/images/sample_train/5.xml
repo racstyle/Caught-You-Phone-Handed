@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>5.jpg</filename>
+	<path>/Users/rachel/OneDrive/Documents/UIC/2021 Spring/ECE 397/Project Resources/Images/balanced/training/5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4592</width>
+		<height>3448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OnPhone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>2496</xmin>
+			<ymin>228</ymin>
+			<xmax>3279</xmax>
+			<ymax>736</ymax>
+		</bndbox>
+	</object>
+</annotation>

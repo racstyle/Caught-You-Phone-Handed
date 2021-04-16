@@ -1,7 +1,5 @@
 # The files are too big to be pushed into GitHub, even with git lsf
 *.v2
-*.JPG
-*.xml
 *.mp4
 *.mov
 *.record
@@ -12,3 +10,5 @@ Tensorflow/workspace/images/.DS_Store
 Tensorflow/workspace/models/my_ssd_mobnet/.DS_Store
 Tensorflow/workspace/models/.DS_Store
 Tensorflow/workspace/models/old_checkpoints_20K_15-21_SUGRA
+Tensorflow/workspace/images/test
+Tensorflow/workspace/images/train

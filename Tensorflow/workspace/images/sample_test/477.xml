@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>477.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\All\wtf\test\477.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4592</width>
+		<height>3448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NotOnPhone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2759</xmin>
+			<ymin>60</ymin>
+			<xmax>3543</xmax>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+</annotation>
